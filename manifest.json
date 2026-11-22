@@ -1,21 +1,21 @@
 {
-  "version": "2026.11.22.1",
-  "publishedAt": "2026-11-22T14:34:26.717Z",
+  "version": "2026.11.22.2",
+  "publishedAt": "2026-11-22T17:00:36.156Z",
   "files": [
     {
       "name": "own-model.json",
-      "size": 4697349,
-      "sha256": "2b390a79045e97d55266fad3e137beb3d9d8d07cf086a6e168520bb0a564173f"
+      "sha256": "ab628955ecae57f42c8633abc0d33b673a2b822e40437ecdd93e4ff3337ef4ff",
+      "size": 4697380
     },
     {
       "name": "text-model.json",
-      "size": 55274463,
-      "sha256": "eeb0780b14b54d0c995d83f5580091df4603f7e367fa2109480a28af7133b26a"
+      "sha256": "eeb0780b14b54d0c995d83f5580091df4603f7e367fa2109480a28af7133b26a",
+      "size": 55274463
     },
     {
       "name": "own-field.bin",
-      "size": 2409057,
-      "sha256": "5cf6d912e688ea81e10c4e12cc5c9ae39f8629b9357cf2967297aaf6bff45667"
+      "sha256": "5cf6d912e688ea81e10c4e12cc5c9ae39f8629b9357cf2967297aaf6bff45667",
+      "size": 2409057
     }
   ]
 }
